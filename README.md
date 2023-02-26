@@ -1,4 +1,5 @@
 # Parallax-Design
+visit it here:-https://shubhamraj-24.github.io/Parallax-Design/
 The parallax effect is a popular web design technique that creates a sense of depth and immersion by moving different layers of content at different speeds as the user scrolls down a web page. It's achieved using HTML and CSS, and here's a description of how it can be done:
 
 Structure the HTML: Start by structuring the HTML code of your web page into different sections, each containing a different layer of content. For example, you might have a header section, a main content section, and a footer section.
